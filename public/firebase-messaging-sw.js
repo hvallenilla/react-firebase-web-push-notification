@@ -3,12 +3,12 @@ importScripts('https://www.gstatic.com/firebasejs/9.9.1/firebase-messaging-compa
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAGW5sFSv7AZqAo4ALV0UNVxlN_i6XqE5A",
-    authDomain: "gpx-grower-app.firebaseapp.com",
-    projectId: "gpx-grower-app",
-    storageBucket: "gpx-grower-app.appspot.com",
-    messagingSenderId: "406228877549",
-    appId: "1:406228877549:web:a3a8f840bfa4664b1e4ce4",
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
 };
 
 const app = firebase.initializeApp(firebaseConfig);  
